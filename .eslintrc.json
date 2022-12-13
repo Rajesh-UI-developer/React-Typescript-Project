@@ -23,11 +23,12 @@
   "rules": {
     "react/react-in-jsx-scope": "off",
     "@typescript-eslint/no-explicit-any":"off",
+    "linebreak-style":"off",
     // "indent": [
     //     "error",
     //     4
     // ],
-    "linebreak-style": ["error", "windows"],
+    // "linebreak-style": ["error", "windows"],
     "quotes": ["error", "double"],
     "semi": ["error", "always"]
   }
