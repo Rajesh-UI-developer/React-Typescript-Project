@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Shopping-Site/static/css/main.24acf523.css",
-    "main.js": "/Shopping-Site/static/js/main.6f273021.js",
-    "static/js/787.53752fe1.chunk.js": "/Shopping-Site/static/js/787.53752fe1.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Shopping-Site/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/Shopping-Site/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Shopping-Site/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/facepack.jpg": "/Shopping-Site/static/media/facepack.04d2b5841cf7d0fb195e.jpg",
-    "static/media/banner.jpg": "/Shopping-Site/static/media/banner.54f77cc4e1abc567a332.jpg",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Shopping-Site/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Shopping-Site/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/womenglass.jpg": "/Shopping-Site/static/media/womenglass.85cb619a83f2e7136e54.jpg",
-    "static/media/laptop-banner.png": "/Shopping-Site/static/media/laptop-banner.d98871b1f088e39d1807.png",
-    "static/media/menglass.jpg": "/Shopping-Site/static/media/menglass.ef34180fda61760ca5bd.jpg",
-    "static/media/boom-headset.png": "/Shopping-Site/static/media/boom-headset.ab78223095fbe2490919.png",
-    "static/media/watch.jpg": "/Shopping-Site/static/media/watch.c33937008b0e8a221ff4.jpg",
-    "static/media/watch-1.jpg": "/Shopping-Site/static/media/watch-1.10ce099d4eef7aa4412a.jpg",
-    "index.html": "/Shopping-Site/index.html",
-    "main.24acf523.css.map": "/Shopping-Site/static/css/main.24acf523.css.map",
-    "main.6f273021.js.map": "/Shopping-Site/static/js/main.6f273021.js.map",
-    "787.53752fe1.chunk.js.map": "/Shopping-Site/static/js/787.53752fe1.chunk.js.map"
+    "main.css": "/Testing/static/css/main.2a59089b.css",
+    "main.js": "/Testing/static/js/main.1083de62.js",
+    "static/js/787.53752fe1.chunk.js": "/Testing/static/js/787.53752fe1.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Testing/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Testing/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Testing/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/facepack.jpg": "/Testing/static/media/facepack.04d2b5841cf7d0fb195e.jpg",
+    "static/media/banner.jpg": "/Testing/static/media/banner.54f77cc4e1abc567a332.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Testing/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Testing/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/womenglass.jpg": "/Testing/static/media/womenglass.85cb619a83f2e7136e54.jpg",
+    "static/media/laptop-banner.png": "/Testing/static/media/laptop-banner.d98871b1f088e39d1807.png",
+    "static/media/menglass.jpg": "/Testing/static/media/menglass.ef34180fda61760ca5bd.jpg",
+    "static/media/boom-headset.png": "/Testing/static/media/boom-headset.ab78223095fbe2490919.png",
+    "static/media/watch.jpg": "/Testing/static/media/watch.c33937008b0e8a221ff4.jpg",
+    "static/media/watch-1.jpg": "/Testing/static/media/watch-1.10ce099d4eef7aa4412a.jpg",
+    "index.html": "/Testing/index.html",
+    "main.2a59089b.css.map": "/Testing/static/css/main.2a59089b.css.map",
+    "main.1083de62.js.map": "/Testing/static/js/main.1083de62.js.map",
+    "787.53752fe1.chunk.js.map": "/Testing/static/js/787.53752fe1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24acf523.css",
-    "static/js/main.6f273021.js"
+    "static/css/main.2a59089b.css",
+    "static/js/main.1083de62.js"
   ]
 }
