@@ -1,7 +1,7 @@
 {
-  "homepage": "http://Rajesh-UI-developer.github.io/Shopping-Site",
   "name": "typescript-project",
   "version": "0.1.0",
+  "homepage": "https://Rajesh-UI-developer.github.io/Testing",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
