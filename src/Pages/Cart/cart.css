@@ -1,0 +1,38 @@
+.cart_cont {
+  display: flex;
+  width: 83%;
+  margin: 2% auto;
+  justify-content: space-evenly;
+}
+.cart_cont .image_ {
+  width: 20%;
+  height: 18vh;
+}
+.cart_cont .image_ img {
+  width: 100%;
+  height: 100%;
+}
+.cart_cont .content {
+  display: flex;
+  gap: 1.5rem;
+  flex-direction: column;
+}
+.cart_cont .content h5{
+font-size: 1rem;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 600;
+margin: 0;
+color: #747474;
+}
+.cart_cont .content h4{
+    font-size: 1.1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+.content_btn{
+    margin: auto 0%;
+}
+.cart_cont .content input{
+    width: 25%;
+    text-align: center;
+}

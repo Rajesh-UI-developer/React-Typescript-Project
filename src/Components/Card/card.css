@@ -1,0 +1,78 @@
+.col{
+  padding: 0% 1% !important;
+}
+.card_{
+  position: relative;
+}
+ 
+.card_ .overlay{
+  position: absolute;
+  top: 4%;
+  right: 10%;
+  /* border: 2px solid rgba(0,0,0,.5); */
+  background-color: rgba(0,0,0,.5);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+transition: .2s;
+cursor: pointer;
+visibility: hidden;
+}
+.card_ .overlay:hover .fa-cart-plus{
+color: rgb(34, 188, 218);
+}
+.card_ .overlay:hover{
+background-color: #fff;
+}
+.card_ .fa-cart-plus{
+  font-size: 1.6rem;
+  transition: .3s;
+  color: #fff;
+
+  visibility: hidden;
+  transition: .2s;
+}
+.card_ .card-body {
+  padding: 0.8rem 0.8rem 0.4rem;
+}
+.card_ img {
+  aspect-ratio: 1/0.68;
+}
+.card_ h5 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #000;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.card_ p {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: rgb(101, 101, 101);
+  margin: 0;
+}
+
+.card_ button {
+  border: none;
+  margin-top: 0.2rem;
+  outline: none;
+  color: rgb(71, 98, 99);
+  padding: 4%;
+  font-weight: 600;
+  font-size: 0.85rem;
+  transition: .3s;
+}
+.card_ button:hover{
+    background-color: rgb(124, 162, 163);
+}
+.card_:hover{
+    transform: scale(1.02);
+}
+.card_:hover .overlay{
+   visibility: visible;
+}
+.card_:hover .fa-cart-plus{
+   visibility: visible;
+}

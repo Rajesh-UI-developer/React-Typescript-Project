@@ -1,0 +1,82 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(88, 121, 122);
+    color: #fff;
+    padding: .8% ;
+    box-shadow: 2px 4px 5px rgba(0,0,0,.3);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+header h3{
+    margin: auto 0;
+    display: flex;
+    gap: 1rem ;
+    align-items: center;
+   font-size:1.4rem;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-shadow:1px 1px 3px #fff;
+}
+header .search{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.search input{
+    background-color: transparent;
+    color: #fff;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+.search input:focus{
+    background-color: transparent;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: none;
+}
+.search i{
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.profile{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
+.profile a{
+    text-decoration: none;
+    list-style-type: none;
+    color: #fff;
+    display: flex;
+    gap: .5rem;
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    cursor: pointer;
+}
+.profile .fa-cart-plus{
+
+}
+.profile .cart:hover{
+color: #cfcdcd;
+}
+.profile .cart{
+    position: relative;
+}
+.badge_parent{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    width: 17px;
+    height: 17px;
+    top: -20%;
+    right: -24%;
+    border-radius: 50%;
+}
+.num{
+font-size: .5rem;
+font-weight: 600;
+}

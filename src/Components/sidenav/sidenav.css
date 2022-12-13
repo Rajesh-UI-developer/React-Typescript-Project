@@ -1,0 +1,45 @@
+.side_navbar {
+  width: 16.5%;
+  background-color:#D6E4E5;
+  height: 100%;
+  position: fixed;
+}
+.side_navbar ul{
+margin: 0;
+padding: 0;
+width: 100%;
+}
+.side_navbar ul li{
+  list-style-type: none;
+  text-decoration: none;
+  width: 100%;
+
+  cursor: pointer;
+}
+.side_navbar ul li a{
+color: #000;
+display: flex;
+width: 100%;
+height: 100%;
+text-decoration: none;
+gap: .6rem;
+padding: 2.5% 0%;
+padding-left: 4%;
+text-shadow: 1px 1px 1px rgb(63, 63, 63);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+align-items: center;
+font-size: 1.2rem;
+}
+.side_navbar ul li a i{
+  width: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.side_navbar ul li:hover a{
+  color:rgb(141, 166, 233);
+}
+.side_navbar ul li a.active {
+  color:rgb(59, 96, 199);
+}
